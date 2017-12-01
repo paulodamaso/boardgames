@@ -1,2 +1,2 @@
-interface Tile {
+public interface Tile {
 }

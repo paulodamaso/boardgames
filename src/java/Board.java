@@ -1,3 +1,3 @@
 public interface Board {
-  public Tiles<Tile> tiles();
+  public Tiles tiles();
 }
