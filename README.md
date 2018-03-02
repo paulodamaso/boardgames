@@ -1,2 +1,2 @@
-# donkey-boardgames
-Board games for donkeys
+# boardgames
+Board games classes.
